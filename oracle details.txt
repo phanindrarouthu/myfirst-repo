@@ -1,0 +1,10 @@
+usr name orcl
+pwd oracle
+Oracle Enterprise Manager Database Express URL: https://localhost:5500/em
+
+database configuration assistance
+
+/ as sysdba
+alter session set "_oracle_script"=true;
+
+MARCHSQL USER NAME   "tiger" passward
